@@ -1,4 +1,4 @@
-# Link do projeto[https://hzc-khaki.vercel.app/]
+# Link do projeto [https://hzc-khaki.vercel.app/]
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
